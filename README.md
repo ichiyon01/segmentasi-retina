@@ -49,6 +49,9 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+## 🚀 Trainer Notebook
+
+[![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ichiyon01/segmentasi-retina/blob/main/segmentasi_retina.ipynb)
 
 ## 💡 Cara Penggunaan
 1. Pilih model segmentasi: CLAHE, Non-CLAHE, atau keduanya
