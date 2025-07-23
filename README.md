@@ -45,7 +45,7 @@ source venv/bin/activate  # di Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-4. ***Jalankan Aplikasi Streamlit**
+4. **Jalankan Aplikasi Streamlit**
 ```bash
 streamlit run app.py
 ```
