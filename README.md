@@ -21,6 +21,7 @@ segmentasi-retina/
 - ├── model_loader.py # Loader model U-Net
 - ├── image_processor.py # Modul preprocessing & prediksi
 - ├── pdf_generator.py # Modul export hasil ke PDF
+- ├── requirements.txt #file dependencies
 - ├── models/ # Folder berisi model CLAHE & non-CLAHE
 
 
