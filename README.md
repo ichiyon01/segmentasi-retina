@@ -17,13 +17,12 @@ Deteksi dini penyakit retina seperti **Age-related Macular Degeneration (AMD)** 
 ## 🗂️ Struktur Folder
 
 segmentasi-retina/
-│
-├── app.py # Aplikasi utama Streamlit
-├── model_loader.py # Loader model U-Net
-├── image_processor.py # Modul preprocessing & prediksi
-├── pdf_generator.py # Modul export hasil ke PDF
-├── models/ # Folder berisi model CLAHE & non-CLAHE
-└── assets/ # (Opsional) Contoh gambar retina\
+- ├── app.py # Aplikasi utama Streamlit
+- ├── model_loader.py # Loader model U-Net
+- ├── image_processor.py # Modul preprocessing & prediksi
+- ├── pdf_generator.py # Modul export hasil ke PDF
+- ├── models/ # Folder berisi model CLAHE & non-CLAHE
+
 
 
 ## ⚙️ Instalasi
